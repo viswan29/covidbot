@@ -1,0 +1,4 @@
+Flask==1.1.1
+requests==2.23.0
+twilio==6.35.5
+json5==0.8.5
