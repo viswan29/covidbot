@@ -1,0 +1,2 @@
+# covidbot
+covid whatsapp bot
